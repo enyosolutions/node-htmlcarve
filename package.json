@@ -44,10 +44,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Anonyfox/node-htmlcarve.git"
+    "url": "https://github.com/enyosolutions/node-htmlcarve.git"
   },
   "bugs": {
-    "url": "https://github.com/Anonyfox/node-htmlcarve/issues"
+    "url": "https://github.com/enyosolutions/node-htmlcarve/issues"
   },
   "licenses": [
     {
