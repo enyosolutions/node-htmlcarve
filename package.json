@@ -1,6 +1,6 @@
 {
   "name": "htmlcarve",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Extract essential meta-informations from any web page, fast and dead simple.",
   "keywords": [
     "html",
